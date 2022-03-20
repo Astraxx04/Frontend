@@ -5,3 +5,10 @@ h1{
     text-align: center;
     color: blueviolet;
 }
+body{
+    color: red;
+}
+
+link{
+    display: none;
+}
