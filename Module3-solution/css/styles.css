@@ -1,0 +1,15 @@
+.main-title {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.row {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.content-box {
+    background-color: rgba(0,0,0,0.3);
+    border: 5px;
+}
